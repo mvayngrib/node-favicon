@@ -18,7 +18,7 @@
 
 , "repository":
   { "type": "git"
-  , "url":  "https://github.com/sentientwaffle/favicon.git"
+  , "url":  "https://github.com/sentientwaffle/node-favicon.git"
   }
 
 , "dependencies":
